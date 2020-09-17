@@ -1,8 +1,5 @@
 # Welcome everybody :wave:
 
-
-<sup> Credit: [Nate Moore](https://github.com/natemoo-re) </sup>
-
 ## Currently Working on 
 [Movie-tv-project](https://github.com/Amandoj/movie_tv_project)
 
