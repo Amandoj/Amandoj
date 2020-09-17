@@ -1,7 +1,7 @@
 # Welcome everybody :wave:
 
 ## About Me!!
-I am a 2nd year data science student @ UCSD. 
+I'm an energetic 2nd year college student currently attending the University of California, San Diego and majoring in Data Science. I am currently focused on improving my python skills, learning SQL, doing projects, etc. Some of my favorite things to do are listen to music (primarily Indie :headphones:), playing video games :video_game:, playing/watching sports (Lakers fan since 2001!!! :basketball:) and reading.
 
 ## Currently Working on 
 [Movie-tv-project](https://github.com/Amandoj/movie_tv_project)
