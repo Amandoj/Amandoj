@@ -1,7 +1,7 @@
 # Amando Jimenez
 ## _Currrently Listening to_
-<a href="https://https://natemoo-re-git-master.amandoj.vercel.app//now-playing?open">
-    <img src="https://https://natemoo-re-git-master.amandoj.vercel.app//now-playing" width="256" height="64" alt="Now Playing">`
+<a href="https://natemoo-re-4mnzh1aqr.vercel.app/now-playing?open">
+    <img src="https://natemoo-re-4mnzh1aqr.vercel.app/now-playing" width="256" height="64" alt="Now Playing">`
 </a>
 ## About Me!!
 I am a 2nd year data science student @ UCSD.
