@@ -6,6 +6,9 @@
 
 <sup> Credit: [Nate Moore](https://github.com/natemoo-re) </sup>
 
+## Currently Working on 
+[Movie-tv-project](https://github.com/Amandoj/movie_tv_project)
+
 ## About Me!!
 I am a 2nd year data science student @ UCSD. 
 
