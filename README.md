@@ -1,7 +1,8 @@
 # Amando Jimenez
 ## _Currrently Listening to_
 <a href="https://natemoo-re-4mnzh1aqr.vercel.app/now-playing?open">
-    <img src="https://natemoo-re-4mnzh1aqr.vercel.app/now-playing" width="256" height="64" alt="Now Playing">`
+    <img src="https://natemoo-re-4mnzh1aqr.vercel.app/now-playing" width="256" height="64" alt="Now Playing">` <sup>Credit to:
+natemoo-re</sub>
 </a>
 
 ## About Me!!
