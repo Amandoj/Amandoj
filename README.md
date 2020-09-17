@@ -1,4 +1,4 @@
-# Hello Everybody :wave:
+# Welcome everybody :wave:
 ## _Currrently Listening to_
 <a href="https://natemoo-re-4mnzh1aqr.vercel.app/now-playing?open">
     <img src="https://natemoo-re-4mnzh1aqr.vercel.app/now-playing" width="256" height="64" alt="Now Playing"> 
@@ -7,7 +7,7 @@
 <sup> Credit: [Nate Moore](https://github.com/natemoo-re) </sup>
 
 ## About Me!!
-I am a 2nd year data science student @ UCSD.
+I am a 2nd year data science student @ UCSD. 
 
 ## Projects
 
