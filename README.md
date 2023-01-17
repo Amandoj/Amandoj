@@ -1,5 +1,3 @@
-# Welcome everybody :wave:
-
 ## Projects
 [NYPD-Research-Project](https://github.com/Amandoj/NYPD-Civilian-Complaints-Analysis)
 
